@@ -73,4 +73,7 @@ Para obtener más información sobre esta licencia y ver una copia completa de s
 ## Contacto y Más Información
 
 - **GitHub del Equipo Scrum**: [Link al GitHub](https://github.com/equipo_scrum)
-- **Correo de Contacto**: [correo@example.com](mailto:correo@example.com)
+- **Correo de Contacto**: [correo@example.com](mailto:correo@example.com)  
+  
+## TASK1 Scrum Master
+Se crea estructura ABP, y proyecto Kanban. 
