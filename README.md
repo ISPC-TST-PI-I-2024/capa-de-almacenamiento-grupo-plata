@@ -9,12 +9,15 @@
 - **Institución**: Instituto Superior Politécnico Córdoba (ISPC)
 - **Curso**: Proyecto Integrador I
 - **Docente**: Cristian Gonzalo Vera
-- **Equipo de Desarrollo [nombre del quipo]**:
-  - Integrante 1
-  - Integrante 2
-  - Integrante 3
-  - Integrante 4
-  - (Añadir más integrantes según corresponda)
+- **Equipo de Desarrollo [Grupo Plata]**:
+- karina jazmin barbero, GitHub: [@karina-lolis](https://github.com/karina-lolis).
+- Nicolás Nahuel Barrionuevo, GitHub: [@NicolasBa27](https://github.com/NicolasBa27).
+- Macarena Aylen Carballo, GitHub: [@MacarenaAC](https://github.com/MacarenaAC).
+- Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).
+- Miqueas Drovetta, GitHub: [@aMiqueasDrovetta](https://github.com/MiqueasDrovetta).
+- Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). 
+- Agutin Leal Segura, GitHub: [@agustinlealsegura](https://github.com/agustinlealsegura).
+- Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).
 
 ## Sobre el Proyecto
 
