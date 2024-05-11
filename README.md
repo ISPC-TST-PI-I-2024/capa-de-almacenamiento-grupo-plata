@@ -80,3 +80,6 @@ Para obtener más información sobre esta licencia y ver una copia completa de s
   
 ## TASK1 Scrum Master
 Se crea estructura ABP, y proyecto Kanban. 
+
+## TASK2 Product Owner 
+Se agrega historia de usuario y lista de tareas
