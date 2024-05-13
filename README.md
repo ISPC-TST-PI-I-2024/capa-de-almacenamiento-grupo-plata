@@ -83,3 +83,6 @@ Se crea estructura ABP, y proyecto Kanban.
 
 ## TASK2 Product Owner 
 Se agrega historia de usuario y lista de tareas
+
+## TASK4 Product MiqueasDrovetta y r-j28 
+Se completa uh#5tk4
