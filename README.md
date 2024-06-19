@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dpfHO3Yy)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14988092&assignment_repo_type=AssignmentRepo)
 ![Logo de la Institución ISPC](./E%20assets/logoISPC.png)
 
 # Proyecto Final - Capa de Almacenamiento
@@ -7,12 +9,15 @@
 - **Institución**: Instituto Superior Politécnico Córdoba (ISPC)
 - **Curso**: Proyecto Integrador I
 - **Docente**: Cristian Gonzalo Vera
-- **Equipo de Desarrollo [nombre del quipo]**:
-  - Integrante 1
-  - Integrante 2
-  - Integrante 3
-  - Integrante 4
-  - (Añadir más integrantes según corresponda)
+- **Equipo de Desarrollo [Grupo Plata]**:
+- karina jazmin barbero, GitHub: [@karina-lolis](https://github.com/karina-lolis).
+- Nicolás Nahuel Barrionuevo, GitHub: [@NicolasBa27](https://github.com/NicolasBa27).
+- Macarena Aylen Carballo, GitHub: [@MacarenaAC](https://github.com/MacarenaAC).
+- Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).
+- Miqueas Drovetta, GitHub: [@aMiqueasDrovetta](https://github.com/MiqueasDrovetta).
+- Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). 
+- Agutin Leal Segura, GitHub: [@agustinlealsegura](https://github.com/agustinlealsegura).
+- Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).
 
 ## Sobre el Proyecto
 
@@ -71,4 +76,13 @@ Para obtener más información sobre esta licencia y ver una copia completa de s
 ## Contacto y Más Información
 
 - **GitHub del Equipo Scrum**: [Link al GitHub](https://github.com/equipo_scrum)
-- **Correo de Contacto**: [correo@example.com](mailto:correo@example.com)
+- **Correo de Contacto**: [correo@example.com](mailto:correo@example.com)  
+  
+## TASK1 Scrum Master
+Se crea estructura ABP, y proyecto Kanban. 
+
+## TASK2 Product Owner 
+Se agrega historia de usuario y lista de tareas
+
+## TASK4 Product MiqueasDrovetta y r-j28 
+Se completa uh#5tk4
