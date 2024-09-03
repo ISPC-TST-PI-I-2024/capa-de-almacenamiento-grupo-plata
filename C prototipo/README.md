@@ -1,33 +1,4 @@
 # Proyecto Integrador 1 - Capa de Almacenamiento
-
-Este proyecto es parte de la materia "Proyecto Integrador 1" de la carrera "Técnico Superior en Telecomunicaciones" del ISPC. El objetivo de este proyecto es proporcionar una plantilla general de desarrollo para los alumnos, enfocada en la implementación de la capa de almacenamiento dentro de una estructura IoT de 7 capas.
-
-## Docente
-
-Cristian Gonzalo Vera → GitHub: [@Gona79](https://github.com/Gona79)
-
-## Alumnos
-
-Karina jazmin barbero → GitHub: [@karina-lolis](https://github.com/karina-lolis).  
-Nicolás Nahuel Barrionuevo → GitHub: [@NicolasBa27](https://github.com/NicolasBa27).  
-Macarena Aylen Carballo → GitHub: [@MacarenaAC](https://github.com/MacarenaAC).  
-Diego Ares → GitHub: [@diegote7](https://github.com/diegote7).  
-Fernando Gimenez Coria → GitHub: [@FernandoGC](https://github.com/FerCbr).  
-Agutin Leal Segura → GitHub: [@agustinlealsegura](https://github.com/agustinlealsegura).  
-Raul Jara → GitHub: [@r-j28](https://github.com/r-j28).
-
-## Descripción General del Proyecto
-
-El proyecto se divide en varias capas, cada una encargada de una función específica dentro de la arquitectura IoT:
-
-1. **Capa de Percepción**: Encargada de la recolección de datos a través de sensores y dispositivos.
-2. **Capa de Conectividad**: Transmisión de datos desde los dispositivos al sistema central.
-3. **Capa de Preprocesamiento/Edge**: Procesamiento inicial de datos cerca de la fuente.
-4. **Capa de Almacenamiento**: Almacenamiento seguro y accesible de datos.
-5. **Capa de Procesamiento en la Nube**: Procesamiento avanzado y análisis de datos.
-6. **Capa de Aplicación (Análisis)**: Proporciona una API RESTful para la interacción y análisis de datos.
-7. **Capa de Presentación**: Diseño de interfaces de usuario para la visualización y gestión de datos.
-
 ## Stack Tecnológico Utilizado
 
 - **Capa de Percepción**:
