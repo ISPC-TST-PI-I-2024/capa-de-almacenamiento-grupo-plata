@@ -1,23 +1,135 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dpfHO3Yy)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14988092&assignment_repo_type=AssignmentRepo)
+
 ![Logo de la Institución ISPC](./E%20assets/logoISPC.png)
 
 # Proyecto Final - Capa de Almacenamiento
+## Grupo: PLATA
+## Instituto: ISPC  
+**Carrera:** Tecnicatura Superior en Telecomunicaciones.  
+**Materia:** Proyecto Integrador I  
+**Docente:** Cristian Gonzalo Vera  
+**Selección de proyectos:** ABP #23 Sistema de alertas de calidad de aire 
 
-## Información General del Curso
+<h1> Docente </h1>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+            </tr>
+          </thead>
+          <tbody>
+           <tr>
+              <td> Cristian Gonzalo Vera </td>
+              <td> Gona79 </td>
+              <td>
+                <a href="https://github.com/Gona79">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+        </table>
+  </dd>
+  <dd>
+<dl>
 
-- **Institución**: Instituto Superior Politécnico Córdoba (ISPC)
-- **Curso**: Proyecto Integrador I
-- **Docente**: Cristian Gonzalo Vera
-- **Equipo de Desarrollo [Grupo Plata]**:
-- karina jazmin barbero, GitHub: [@karina-lolis](https://github.com/karina-lolis).
-- Nicolás Nahuel Barrionuevo, GitHub: [@NicolasBa27](https://github.com/NicolasBa27).
-- Macarena Aylen Carballo, GitHub: [@MacarenaAC](https://github.com/MacarenaAC).
-- Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).
-- Miqueas Drovetta, GitHub: [@aMiqueasDrovetta](https://github.com/MiqueasDrovetta).
-- Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). 
-- Agutin Leal Segura, GitHub: [@agustinlealsegura](https://github.com/agustinlealsegura).
-- Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).
+<br>
+
+<h1> 👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻 </h1>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td> Leandro Roldan </td>
+              <td> pleroldan </td>
+              <td>
+                <a href="https://github.com/pleroldan">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Fernando Gimenez Coria </td>
+              <td> FerCbr </td>
+              <td>
+                <a href="https://github.com/FerCbr">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Karina jazmin barbero </td>
+              <td> karina-lolis </td>
+              <td>
+                <a href="https://github.com/karina-lolis">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Nicolás Nahuel Barrionuevo </td>
+              <td> NicolasBa27 </td>
+              <td>
+                <a href="https://github.com/NicolasBa27">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Macarena Aylen Carballo </td>
+              <td> MacarenaAC </td>
+              <td>
+                <a href="https://github.com/MacarenaAC">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Raul Jara </td>
+              <td> r-j28 </td>
+              <td>
+                <a href="https://github.com/r-j28">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Diego Ezequiel Ares </td>
+              <td>  diegote7 </td>
+              <td>
+                <a href="https://github.com/diegote7">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+           <tr>
+              <td> Romina Huk </td>
+              <td> RoHu17 </td>
+              <td>
+                <a href="https://github.com/RoHu17">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Paola Pantoja </td>
+              <td> - </td>
+              <td>
+                <a href="https://github.com/PaolaaPantoja">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+            </tr>
+        </table>
+  </dd>
+  <dd>
+<dl>
 
 ## Sobre el Proyecto
 
@@ -28,8 +140,8 @@ Este repositorio está dedicado a la Capa de Almacenamiento del proyecto IoT. In
 - **A requisitos**: Contiene documentos de requisitos proporcionados por el docente.
 - **B investigacion**: Investigaciones realizadas por los estudiantes.
 - **C prototipo**: Implementaciones específicas de la capa de almacenamiento.
-- **D presentacion**: Incluye grabaciones y bitácoras de las reuniones de Scrum, así como las presentaciones de progreso.
-- **zassets**: Contiene recursos gráficos como imágenes y otros archivos necesarios para la documentación.
+- **D presentacion**: Presentación del repositorio la capa de almacenamiento.
+- **E assets**: Contiene recursos gráficos como imágenes y otros archivos necesarios para la documentación.
 
 ## Stack Tecnológico Común
 
@@ -54,7 +166,7 @@ Comprender y aplicar las diferencias entre bases de datos SQL y NoSQL, seleccion
 
 ### Historia de Usuario
 
-"Como estudiante de IoT, quiero entender las diferencias entre SQL y NoSQL para poder elegir la mejor base de datos para mi proyecto específico de IoT."
+"Como estudiantes de IoT, queremos entender las diferencias entre SQL y NoSQL para poder elegir la mejor base de datos para nuestro proyecto sobre calidad de aire."
 
 ### Product Backlog
 
