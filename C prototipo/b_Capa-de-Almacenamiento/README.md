@@ -1,15 +1,33 @@
 # Proyecto Integrador 1 - Capa de Almacenamiento
+
+Este proyecto es parte de la materia "Proyecto Integrador 1" de la carrera "Técnico Superior en Telecomunicaciones" del ISPC. El objetivo de este proyecto es proporcionar una plantilla general de desarrollo para los alumnos, enfocada en la implementación de la capa de almacenamiento dentro de una estructura IoT de 7 capas. 
+
+## Docente
+
+Cristian Gonzalo Vera  
+[GitHub](https://github.com/Gona79)
+
+## Descripción General del Proyecto
+
+El proyecto se divide en varias capas, cada una encargada de una función específica dentro de la arquitectura IoT:
+
+1. **Capa de Percepción**: Encargada de la recolección de datos a través de sensores y dispositivos.
+2. **Capa de Conectividad**: Transmisión de datos desde los dispositivos al sistema central.
+3. **Capa de Preprocesamiento/Edge**: Procesamiento inicial de datos cerca de la fuente.
+4. **Capa de Almacenamiento**: Almacenamiento seguro y accesible de datos.
+5. **Capa de Procesamiento en la Nube**: Procesamiento avanzado y análisis de datos.
+6. **Capa de Aplicación (Análisis)**: Proporciona una API RESTful para la interacción y análisis de datos.
+7. **Capa de Presentación**: Diseño de interfaces de usuario para la visualización y gestión de datos.
+
 ## Stack Tecnológico Utilizado
 
 - **Capa de Percepción**:
-
   - Dispositivo: ESP32-WROOM
   - Sensores y Actuadores
   - IDE: Visual Studio Code (VSCode)
   - Framework: Platformio, Arduino
 
 - **Capa de Almacenamiento**:
-
   - IDE: Visual Studio Code (VSCode)
   - Bases de Datos: MySQL, MongoDB
   - Contenedores: Docker
@@ -24,8 +42,8 @@
 Esta capa es responsable de almacenar los datos de manera segura y eficiente. Utiliza MySQL y MongoDB como sistemas de gestión de bases de datos, y Docker para su despliegue.
 
 ### Estructura del Proyecto de la Capa de Almacenamiento
-
-```plaintext
+    
+``` plaintext
 
 .vscode
 docker
@@ -55,13 +73,12 @@ tests
 LICENSE
 README.md
 ```
-
 ### Descripción de Carpetas y Archivos
 
 - **.vscode/**: Contiene configuraciones específicas para el editor Visual Studio Code.
-- **docker/**:
+- **docker/**: 
   - **images/**: Carpeta que contiene las imágenes Docker descargadas (`mongo_4.4.tar` y `mysql_8.0.tar`).
-  - **mongo/**:
+  - **mongo/**: 
     - **Dockerfile**: Define cómo construir la imagen Docker para MongoDB.
     - **mongo.conf**: Archivo de configuración para MongoDB.
   - **mysql/**:
@@ -104,7 +121,7 @@ def create_mysql():
 ```
 
 **Para MongoDB:**
-
+    
 ```python
 @app.route('/mongo/create', methods=['POST'])
 def create_mongo():
@@ -114,33 +131,31 @@ def create_mongo():
 ```
 
 ## Despliegue
+Para desplegar la capa de almacenamiento, sigue estos pasos:  
 
-Para desplegar la capa de almacenamiento, sigue estos pasos:
-
-- Descargar las imágenes Docker:
+- Descargar las imágenes Docker:  
 
 ```bash
 docker load -i docker/images/mysql_8.0.tar
 docker load -i docker/images/mongo_4.4.tar
 ```
-
-- Construir las imágenes personalizadas:
-
+- Construir las imágenes personalizadas:  
+    
 ```bash
 docker build -t custom_mysql:1.0 -f docker/mysql/Dockerfile .
 docker build -t custom_mongo:1.0 -f docker/mongo/Dockerfile .
-```
+``` 
 
-- Iniciar los contenedores Docker:
-
+- Iniciar los contenedores Docker:  
+    
 ```bash
 docker-compose up -d
 ```
 
-### Pruebas
+### Pruebas  
 
-Para ejecutar las pruebas, asegúrate de tener configurados los archivos de prueba en la carpeta tests. Las pruebas deben verificar la correcta interacción con las bases de datos y la API RESTful.
+Para ejecutar las pruebas, asegúrate de tener configurados los archivos de prueba en la carpeta tests. Las pruebas deben verificar la correcta interacción con las bases de datos y la API RESTful.  
 
-### Conclusión
-
+### Conclusión  
 Esta plantilla proporciona una base sólida para que los alumnos desarrollen sus proyectos IoT, enfocándose en la integración de la capa de almacenamiento con la capa de análisis a través de una API RESTful. Cada componente está diseñado para ser modular y escalable, facilitando el desarrollo y la implementación de aplicaciones IoT complejas.
+ 
